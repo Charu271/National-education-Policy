@@ -47,14 +47,8 @@ View this website : [NEP2020](https://national-education-polic-6847d.web.app/)
 
 
 ### Support
-Reach out to me at one of the following places * Website at 
- *charusachdeva271@gmail.com
- *goyalshagun25@gmail.com
+Reach out to us at one of the following places :-
+* Website at [NEP2020](https://national-education-polic-6847d.web.app/)<br>
+* charusachdeva271@gmail.com<br>
+* goyalshagun25@gmail.com
 
-//Installation
-//Features
-//Contributing
-//Team
-//Faq
-//Support
-//License

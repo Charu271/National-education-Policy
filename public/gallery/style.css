@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  font-family: "Montserrat", sans-serif;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.carousel {
+  height: 450px;
+  perspective: 600px;
+}
+.carousel .carousel-item {
+  width: 400px;
+}
+.carousel .carousel-item img {
+  width: 100%;
+}
+.carousel .carousel-item h3 {
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: #000;
+  box-sizing: border-box;
+  padding: 5px 2px;
+  font-weight: bold;
+  font-size: 1em;
+  text-align: center;
+}
+.gallery {
+  color: white;
+  text-align: center;
+  font-weight: bolder;
+  letter-spacing: 0.2em;
+}
+
+@media only screen and (max-width: 895px) {
+  .caraousel {
+    perspective: 400px;
+  }
+  .carousel .carousel-item {
+    width: 300px;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .caraousel {
+    perspective: 300px;
+  }
+  .carousel .carousel-item {
+    width: 200px;
+  }
+}

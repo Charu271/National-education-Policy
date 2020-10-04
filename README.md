@@ -1,2 +1,2 @@
 # National-education-Policy
-View this website : (https://national-education-polic-6847d.web.app/)[NEP2020]
+View this website : (NEP2020)[https://national-education-polic-6847d.web.app/]

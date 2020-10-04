@@ -16,3 +16,21 @@ View this website : [NEP2020](https://national-education-polic-6847d.web.app/)
   4 Jquery<br>
   5 Bootstrap4<br>
   6 Firebase<br>
+  
+### Contributing guidelines
+1 Fork the repo
+2 Clone the repo into your pc 
+git clone https://github.com/Charu271/National-education-Policy
+
+### Support
+Reach out to me at one of the following places * Website at 
+ *charusachdeva271@gmail.com
+ *goyalshagun25@gmail.com
+
+//Installation
+//Features
+//Contributing
+//Team
+//Faq
+//Support
+//License

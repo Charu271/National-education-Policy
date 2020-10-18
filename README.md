@@ -52,5 +52,5 @@ A platform to get all the content regarding the National Education Policy in an 
 Reach out to us at one of the following places :-
 * Website at [NEP2020](https://national-education-polic-6847d.web.app/)<br>
 * charusachdeva271@gmail.com<br>
-* goyalshagun25@gmail.com
+* shagun0227.cse19@chitkara.edu.in
 
